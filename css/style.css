@@ -1,0 +1,26 @@
+body{
+    background: #f8f9fa;
+}
+.container{
+    background:white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+span,a{
+    display: inline-block;
+    vertical-align: top;
+}
+.p-left span,a{
+    width:100%;
+}
+.p-pro span{
+    width:auto;
+}
+h3{
+    margin-top: 15px;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+.gray-text{
+    color:#92969a;
+}
