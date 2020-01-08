@@ -24,3 +24,15 @@ h3{
 .gray-text{
     color:#92969a;
 }
+.black-text{
+    font-weight: bold;
+}
+.m-text{
+    margin-top: 15px;
+}
+.m-text-min{
+    margin-top: 10px;
+}
+.m-bo-text{
+    margin-bottom: 10px;;
+}
