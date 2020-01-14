@@ -19,10 +19,20 @@ span,a{
 .p-pro span{
     width:auto;
 }
+h1{
+    font-family: 'EB Garamond', serif;
+}
+h2{
+    font-family: 'EB Garamond', serif;
+}
 h3{
     margin-top: 15px;
     border-bottom: 1px solid black;
     padding-bottom: 10px;
+    font-family: 'Quicksand', sans-serif;
+}
+h4{
+    font-family: 'Poppins', sans-serif;
 }
 .gray-text{
     color:#92969a;
